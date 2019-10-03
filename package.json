@@ -12,5 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "@google/clasp": "^2.3.0"
+  },
+  "devDependencies": {
+    "@types/google-apps-script": "^0.0.62"
   }
 }
