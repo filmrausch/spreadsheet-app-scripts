@@ -1,0 +1,16 @@
+{
+  "name": "spreadsheet-app-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "clasp:login": "clasp login",
+    "clasp:pull": "clasp pull",
+    "clasp:push": "clasp push"
+  },
+  "author": "Mark Kvetny",
+  "license": "ISC",
+  "dependencies": {
+    "@google/clasp": "^2.3.0"
+  }
+}
